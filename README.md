@@ -1,7 +1,7 @@
 # UCL_dissertation
 Research Objective: Identifying Climate Change Mitigation Technologies using Cooperative Patent Classification system
 
-# split of training, test and validation data
+# Split of training, test and validation data
 
 Each of the word_representation and CNN files consists of training and validation data.
 
