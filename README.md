@@ -1,6 +1,8 @@
 # UCL_dissertation
 Research Objective: Identifying Climate Change Mitigation Technologies using Cooperative Patent Classification system
 
+We use patent data of 100,000 documents from Lens.org to perform this analysis with Natural Learning Processing techniques.
+
 # Split of training, test and validation data
 
 Each of the word_representation and CNN files consists of training and validation data.
