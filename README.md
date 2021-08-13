@@ -14,3 +14,9 @@ TF-IDF: Consists of results for the SVM Model.
 Doc2Vec: Consists of results for the SVM Model.
 
 CNN Results: For each of the features and a combination of the features.
+
+# Data
+
+The testing dataset has been provided.
+
+The training dataset could not be included due to the size of the file. This can be provided on request.
