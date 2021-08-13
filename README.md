@@ -15,7 +15,7 @@ Doc2Vec: Consists of results for the SVM Model.
 
 CNN Results: For each of the features and a combination of the features.
 
-# Data
+## Data
 
 The testing dataset has been provided.
 
