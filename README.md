@@ -17,6 +17,8 @@ CNN Results: For each of the features and a combination of the features.
 
 ## Data
 
+The data folder consists of the initial splitting of the raw data along with data cleaning and text pre-processing. 
+
 The testing dataset has been provided.
 
 The training dataset could not be included due to the size of the file. This can be provided on request.
